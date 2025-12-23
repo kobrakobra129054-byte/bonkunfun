@@ -1,0 +1,10 @@
+bonkunfun/
+├── public/              # Images and static assets
+├── styles/
+│   └── globals.css      # Tailwind & global styling
+├── components/
+│   └── Header.js        # Navigation bar
+├── pages/
+│   └── index.js         # The main game logic
+├── package.json         # Project dependencies
+└── tailwind.config.js   # Style configurations
